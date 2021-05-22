@@ -3,7 +3,7 @@
 This repository is for Meater Machine Learning model.
 
 ## Getting Started
-1. Open [meater.ml](meater.ml) with Google Colaboratory.
+1. Open [meater.ipynb](meater.ipynb) with Google Colaboratory.
 1. It's better to "Save a copy in Drive" to run and edit with your account. Click `File` > `Save a copy in Drive` in your Google Colaboratory.
 1. Create `kaggle.json` from Kaggle. [Learn how to make it](https://github.com/Kaggle/kaggle-api#api-credentials).
 1. Run the colab and it will ask you to upload your `kaggle.json`.
